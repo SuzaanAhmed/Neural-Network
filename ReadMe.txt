@@ -1,0 +1,1 @@
+My project to build a Neural Network without the aid of Tensorflow. The aim here is to understand, learn Neural Networks with clarity and mathematically and then build Neural Networks.
